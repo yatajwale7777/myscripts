@@ -1,0 +1,13 @@
+.env
+creds.json
+*.json.bak
+node_modules/
+.remote_debug_profile/
+userdata/
+Git/
+Git.backup/
+*.log
+*.backup
+debug.html
+master_debug.html
+trakingfile.debug.cjs
